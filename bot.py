@@ -2,7 +2,7 @@ import requests
 import json
 class telegram_chatbot():
     def __init__(self):
-        self.token = "1890935642:AAG2xBVHNYog-nwSkq5BVFwdDIP30_fKyHk"
+        self.token = "here comes your api token, get it from godfather on telegram"
         self.base = f"https://api.telegram.org/bot{self.token}"
     
     def get_updates(self, offset=None):
