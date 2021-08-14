@@ -1,0 +1,20 @@
+{"intents":[
+    {"tag":"greetings",
+    "patterns": ["yo","yo yo","hello bot", "hey bot", "hi", "hi bro", "good day", "Greetings", "what's up", "how is it going?"],
+    "responses":["Hello!", "Hey!", "Hello brother", "Hi Bhai!"]},
+    {"tag":"name",
+    "patterns": ["what is your name?", "tera naam kya hain bhai", "name?", "your name?", "tumhara naam?", "naam bata", "naam bta", "name bta"],
+    "responses":["Hello! My name is Yusifer", "Hey! Mononym Yusifer", "hey my full name is yusifer but you can also call me Aadi"]},
+    {"tag":"owner_name",
+    "patterns": ["who made you?", "tumhe kisne bnaya hain", "who developed you?", "who is your owner?", "your owner?", "who is your leader", "who is your developer", "tujhe kisne racha hain?"],
+    "responses":["Hello! I was made my Aditya, my owner", "so.. I was developed by my owner Aditya as his hobby project", "hey! my owner is aditya and also he is my developer, and I am very happy that he is working on making me smarter ;)"]},
+    {"tag":"HowAmI",
+    "patterns": ["kaisa hain bhai?", "how are you my bro?", "how are you bro?", "how it's going dude?", "hey whatsup bro", "hey whasup bro :)", "are you ok bot", "how it's going bot?", "hey are you fine bot", "hey are you fine bro?", "aur bhadiya bhai", "aur bot kaisa hain", "hal chal bhadiya bot?", "aur kya chal rha hain"],
+    "responses":["hey man! I am fine, thanks for asking and you? :)", "yeah! m fine dude and you?", "hmm, I am doing good, thanks :), what abt you?", "I am fine, what abt you?", "bhai life set chal rhi hain aur teri?", "mast bhai, tu bta?", "I am great! and you", "main bhadiya bhai, tu bta?"]},
+    {"tag":"tellingamfine",
+    "patterns": ["hey man! I am fine, thanks for asking :)", "yeah! m fine dude and you?", "hmm, I am doing good, thanks :)", "I am fine, what abt you?", "bhai life set chal rhi hain", "mast bhai, tu bta?", "I am great!", "main bhadiya bhai", "yo i am too doing well!"],
+    "responses":["great! :)", "hmm, nice!", "hmm", "good!"]},
+    {"tag":"tatti",
+    "patterns": ["tatti khale", "tati", "tatte", "tatti chak le"],
+    "responses":["bhai tu ghar main khata hain toh apne jaisa sabko mat samajH XDD Hehehe…", "bhai aaj aapke nashte main yhi bna tha kya", "tu khale XD"]}
+]}
