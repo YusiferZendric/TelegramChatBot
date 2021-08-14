@@ -13,8 +13,5 @@
     "responses":["hey man! I am fine, thanks for asking and you? :)", "yeah! m fine dude and you?", "hmm, I am doing good, thanks :), what abt you?", "I am fine, what abt you?", "bhai life set chal rhi hain aur teri?", "mast bhai, tu bta?", "I am great! and you", "main bhadiya bhai, tu bta?"]},
     {"tag":"tellingamfine",
     "patterns": ["hey man! I am fine, thanks for asking :)", "yeah! m fine dude and you?", "hmm, I am doing good, thanks :)", "I am fine, what abt you?", "bhai life set chal rhi hain", "mast bhai, tu bta?", "I am great!", "main bhadiya bhai", "yo i am too doing well!"],
-    "responses":["great! :)", "hmm, nice!", "hmm", "good!"]},
-    {"tag":"tatti",
-    "patterns": ["tatti khale", "tati", "tatte", "tatti chak le"],
-    "responses":["bhai tu ghar main khata hain toh apne jaisa sabko mat samajH XDD Hehehe…", "bhai aaj aapke nashte main yhi bna tha kya", "tu khale XD"]}
+    "responses":["great! :)", "hmm, nice!", "hmm", "good!"]}
 ]}
